@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_42",
+ "text": "{\n  \"system\": \"Customer Reference Registry\",\n  \"captured_at\": null,\n  \"focus_resource_id\": null,\n  \"rows\": [],\n  \"other_records\": [\n    {\n      \"label\": \"user_17\",\n      \"identifiers\": [\n        \"user_17\"\n      ],\n      \"status\": \"Retained reference\"\n    },\n    {\n      \"label\": \"ORD-20263245\",\n      \"identifiers\": [],\n      \"status\": \"Active\"\n    },\n    {\n      \"label\": \"CS-3245\",\n      \"identifiers\": [],\n      \"status\": \"Active\"\n    },\n    {\n      \"label\": \"CS-3378\",\n      \"identifiers\": [],\n      \"status\": \"Active\"\n    },\n    {\n      \"label\": \"FIN-7742\",\n      \"identifiers\": [],\n      \"status\": \"Active\"\n    }\n  ]\n}",
+ "input_tokens": 1442,
+ "output_tokens": 230
+}

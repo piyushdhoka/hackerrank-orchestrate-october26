@@ -1,0 +1,6 @@
+# Runtime
+google-genai>=1.59.0    # Gemini on Vertex AI / AI Studio (LLM gates)
+pypdf>=6.0.0            # PDF text layer
+# Tests
+pytest>=8.0
+

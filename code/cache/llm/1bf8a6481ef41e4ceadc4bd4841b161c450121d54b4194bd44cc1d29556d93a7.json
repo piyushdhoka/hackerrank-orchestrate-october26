@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_46",
+ "text": "[\n  {\n    \"system\": \"Nimbus Object Storage\",\n    \"captured_at\": \"2026-02-13T08:00:00Z\",\n    \"focus_resource_id\": null,\n    \"rows\": [],\n    \"other_records\": [\n      {\n        \"label\": \"delivery_confirmation_19.pdf\",\n        \"identifiers\": [],\n        \"status\": \"v3\"\n      },\n      {\n        \"label\": \"delivery_confirmation_20.pdf\",\n        \"identifiers\": [],\n        \"status\": \"v1\"\n      },\n      {\n        \"label\": \"return_label_4821.pdf\",\n        \"identifiers\": [],\n        \"status\": \"v1\"\n      },\n      {\n        \"label\": \"return_label_4876.pdf\",\n        \"identifiers\": [],\n        \"status\": \"v2\"\n      },\n      {\n        \"label\": \"invoice_NS-10493.pdf\",\n        \"identifiers\": [],\n        \"status\": \"v1\"\n      },\n      {\n        \"label\": \"parcel_damage_7713.jpg\",\n        \"identifiers\": [],\n        \"status\": \"v1\"\n      },\n      {\n        \"label\": \"customer_export_2026-02-10.zip\",\n        \"identifiers\": [],\n        \"status\": \"v1\"\n      },\n      {\n        \"label\": \"customer_export_2026-02-12.zip\",\n        \"identifiers\": [],\n        \"status\": \"v1\"\n      }\n    ]\n  }\n]",
+ "input_tokens": 1416,
+ "output_tokens": 389
+}

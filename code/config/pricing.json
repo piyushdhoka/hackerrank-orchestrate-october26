@@ -1,0 +1,29 @@
+{
+  "currency": "USD",
+  "unit": "per 1M tokens",
+  "source": "https://ai.google.dev/gemini-api/docs/pricing (Standard paid tier, read 2026-10-24). Used as the estimate for the same models on Vertex AI; output prices include thinking tokens.",
+  "note": "Null = not configured; reports never assume a price.",
+  "models": {
+    "gemini-3.1-pro-preview": {
+      "provider": "gemini",
+      "input_per_mtok": 2.0,
+      "output_per_mtok": 12.0,
+      "note": "prompts <= 200k tokens (all of ours); >200k is $4.00 / $18.00"
+    },
+    "claude-sonnet-5-5": {
+      "provider": "anthropic",
+      "input_per_mtok": null,
+      "output_per_mtok": null
+    },
+    "claude-opus-5-5": {
+      "provider": "anthropic",
+      "input_per_mtok": null,
+      "output_per_mtok": null
+    },
+    "gpt-sol": {
+      "provider": "openai",
+      "input_per_mtok": null,
+      "output_per_mtok": null
+    }
+  }
+}

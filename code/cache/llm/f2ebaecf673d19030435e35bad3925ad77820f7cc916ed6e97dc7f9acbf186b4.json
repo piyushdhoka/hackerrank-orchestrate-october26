@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_19",
+ "text": "{\n  \"system\": \"Northstar Shop\",\n  \"captured_at\": null,\n  \"focus_resource_id\": \"analytics_7438\",\n  \"rows\": [\n    {\n      \"resource_id\": \"analytics_7438\",\n      \"identifiers\": [\n        \"user_20\",\n        \"darwish.omar@icloud.com\"\n      ],\n      \"name\": \"Omar Darwish\",\n      \"status\": \"Last 90 days\",\n      \"fields\": {\n        \"Sessions\": \"12\",\n        \"Products viewed\": \"19\",\n        \"Completed orders\": \"2\",\n        \"Revenue\": \"USD 167.42\",\n        \"Mobile / Desktop\": \"67% / 33%\",\n        \"Acquisition\": \"Organic search\"\n      },\n      \"row_time\": null\n    }\n  ],\n  \"other_records\": [\n    {\n      \"label\": \"Ceramic coffee set\",\n      \"identifiers\": [],\n      \"status\": null\n    },\n    {\n      \"label\": \"Checkout started\",\n      \"identifiers\": [],\n      \"status\": null\n    },\n    {\n      \"label\": \"Ceramic coffee set\",\n      \"identifiers\": [],\n      \"status\": null\n    },\n    {\n      \"label\": \"Ceramic coffee set\",\n      \"identifiers\": [],\n      \"status\": null\n    },\n    {\n      \"label\": \"Stoneware mug\",\n      \"identifiers\": [],\n      \"status\": null\n    }\n  ]\n}",
+ "input_tokens": 1416,
+ "output_tokens": 361
+}

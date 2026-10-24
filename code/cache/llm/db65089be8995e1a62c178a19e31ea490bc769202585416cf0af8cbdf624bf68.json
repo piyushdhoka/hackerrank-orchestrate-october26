@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_23",
+ "text": "{\n  \"system\": \"Northstar Shop\",\n  \"captured_at\": null,\n  \"focus_resource_id\": \"export_1260\",\n  \"rows\": [\n    {\n      \"resource_id\": \"export_1261\",\n      \"identifiers\": [\n        \"marcus.lee@northstar.shop\"\n      ],\n      \"name\": null,\n      \"status\": \"Collecting\",\n      \"fields\": {\n        \"Filename\": \"customer_export_1261.zip\"\n      },\n      \"row_time\": \"2026-06-20T14:18:00Z\"\n    },\n    {\n      \"resource_id\": \"export_1260\",\n      \"identifiers\": [\n        \"ingrid.dahl@outlook.com\"\n      ],\n      \"name\": null,\n      \"status\": \"Ready\",\n      \"fields\": {\n        \"Filename\": \"customer_export_1260.zip\"\n      },\n      \"row_time\": \"2026-06-18T06:42:00Z\"\n    },\n    {\n      \"resource_id\": \"export_1259\",\n      \"identifiers\": [\n        \"sara.kim@northstar.shop\"\n      ],\n      \"name\": null,\n      \"status\": \"Packaging\",\n      \"fields\": {\n        \"Filename\": \"customer_export_1259.zip\"\n      },\n      \"row_time\": \"2026-06-17T11:03:00Z\"\n    },\n    {\n      \"resource_id\": \"export_1258\",\n      \"identifiers\": [\n        \"daniel.park@northstar.shop\"\n      ],\n      \"name\": null,\n      \"status\": \"Ready\",\n      \"fields\": {\n        \"Filename\": \"customer_export_1258.zip\"\n      },\n      \"row_time\": \"2026-06-16T09:27:00Z\"\n    }\n  ],\n  \"other_records\": []\n}",
+ "input_tokens": 1442,
+ "output_tokens": 508
+}

@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_14",
+ "text": "{\n  \"system\": \"Northstar Shop BridgeOps\",\n  \"captured_at\": \"2026-08-07T08:00:00Z\",\n  \"focus_resource_id\": \"data_flow_1121\",\n  \"rows\": [\n    {\n      \"resource_id\": \"data_flow_1121\",\n      \"identifiers\": [\n        \"jain.aditi@gmail.com\"\n      ],\n      \"name\": null,\n      \"status\": \"Healthy\",\n      \"fields\": {\n        \"Destination\": \"customer_analytics_warehouse\",\n        \"Selector\": \"jain.aditi@gmail.com\",\n        \"Mode\": \"Continuous\",\n        \"Events/hour\": \"1,284\",\n        \"Owner\": \"Data Platform\",\n        \"Sync mode\": \"Continuous sync\",\n        \"Last response\": \"200 OK · 1.8 s\"\n      },\n      \"row_time\": \"2026-08-07T07:59:42Z\"\n    },\n    {\n      \"resource_id\": \"data_flow_9846\",\n      \"identifiers\": [\n        \"lucia-torres@gmail.com\"\n      ],\n      \"name\": null,\n      \"status\": null,\n      \"fields\": {\n        \"Destination\": \"customer_analytics_warehouse\",\n        \"Selector\": \"lucia-torres@gmail.com\",\n        \"Mode\": \"Continuous\",\n        \"Events/hour\": \"842\"\n      },\n      \"row_time\": \"2026-08-07T07:59:36Z\"\n    }\n  ],\n  \"other_records\": [\n    {\n      \"label\": \"Order notifications\",\n      \"identifiers\": [],\n      \"status\": null\n    },\n    {\n      \"label\": \"Delivery tracking\",\n      \"identifiers\": [],\n      \"status\": null\n    }\n  ]\n}",
+ "input_tokens": 1416,
+ "output_tokens": 467
+}

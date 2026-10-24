@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_60",
+ "text": "{\n  \"system\": \"Northstar Shop\",\n  \"captured_at\": \"2026-09-15T23:40:00Z\",\n  \"focus_resource_id\": \"marketing_001\",\n  \"rows\": [\n    {\n      \"resource_id\": \"marketing_001\",\n      \"identifiers\": [\n        \"sj.park@naver.com\",\n        \"+82 10-5837-9451\"\n      ],\n      \"name\": \"Soo-jin Park\",\n      \"status\": \"Live\",\n      \"fields\": {\n        \"Market\": \"South Korea\",\n        \"Language\": \"Korean\",\n        \"Email opt-in\": \"Yes\",\n        \"SMS opt-in\": \"No\",\n        \"Last refreshed\": \"15 Sep 2026 23:40 UTC\"\n      },\n      \"row_time\": null\n    }\n  ],\n  \"other_records\": []\n}",
+ "input_tokens": 1442,
+ "output_tokens": 233
+}

@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_28",
+ "text": "{\n  \"system\": \"Helpline Console\",\n  \"captured_at\": null,\n  \"focus_resource_id\": \"support_1034\",\n  \"rows\": [\n    {\n      \"resource_id\": \"support_1034\",\n      \"identifiers\": [\n        \"kagyeman8947@fastmail.com\"\n      ],\n      \"name\": \"Kofi Agyeman\",\n      \"status\": \"In transit\",\n      \"fields\": {\n        \"Assigned\": \"Maya Chen\",\n        \"Carrier\": \"SwiftShip\",\n        \"Customer\": \"Kofi Agyeman\",\n        \"Email\": \"kagyeman8947@fastmail.com\",\n        \"Expected\": \"26 May 2026\",\n        \"Order\": \"ORD-20265034\",\n        \"Product\": \"Running shoes\",\n        \"SLA\": \"01:42\",\n        \"Subject\": \"Where is my delivery?\",\n        \"Tags\": \"Delivery · Tracking · Order update\",\n        \"Tracking\": \"SWF-884103\"\n      },\n      \"row_time\": null\n    }\n  ],\n  \"other_records\": []\n}",
+ "input_tokens": 1430,
+ "output_tokens": 284
+}

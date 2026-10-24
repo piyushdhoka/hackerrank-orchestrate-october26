@@ -1,0 +1,9 @@
+{
+ "provider": "gemini",
+ "model": "gemini-3.1-pro-preview",
+ "version": "doc-v3",
+ "purpose": "document:evidence_04",
+ "text": "{\n  \"system\": \"Northstar Shop\",\n  \"captured_at\": null,\n  \"focus_resource_id\": \"account_5762\",\n  \"rows\": [\n    {\n      \"resource_id\": \"account_5762\",\n      \"identifiers\": [\n        \"user_11\",\n        \"haruka.s1838@zoho.com\",\n        \"+81 90 7610 2507\"\n      ],\n      \"name\": \"Haruka Sato\",\n      \"status\": \"Silver\",\n      \"fields\": {\n        \"Signup channel\": \"mobile_app\",\n        \"Market\": \"JP\",\n        \"Preferred language\": \"Japanese\",\n        \"Last contact\": \"24 Sep 2026 09:14 JST\",\n        \"Default address\": \"2-18-4 Kichijoji, Musashino, Tokyo 180-0004\",\n        \"Loyalty tier\": \"Silver\",\n        \"Member since\": \"12 Jan 2024\"\n      },\n      \"row_time\": null\n    },\n    {\n      \"resource_id\": \"support_9538\",\n      \"identifiers\": [\n        \"CS-8538\"\n      ],\n      \"name\": null,\n      \"status\": null,\n      \"fields\": {},\n      \"row_time\": null\n    }\n  ],\n  \"other_records\": [\n    {\n      \"label\": \"ORD-20265762\",\n      \"identifiers\": [],\n      \"status\": \"Delivered · 18 Sep\"\n    },\n    {\n      \"label\": \"ORD-20265518\",\n      \"identifiers\": [],\n      \"status\": \"Returned · 03 Sep\"\n    }\n  ]\n}",
+ "input_tokens": 1430,
+ "output_tokens": 432
+}
